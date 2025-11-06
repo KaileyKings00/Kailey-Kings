@@ -1,7 +1,7 @@
   # Kyle Galenzoga s5418946@bournemouth.ac.uk
 
   ## Project Idea
-  (Test if it's connecting again? Again and aGain! Hello World!)
+  - (Test if it's Hello World Connected! Hello World I repeat! Let's Do IT!!)
   For my project, I am going to create simple fireworks from circle to scattered particles with different colours.
     - It's like a Mix of "Grid Simulation framework" or "Temporal Anti-Aliasing in Games" or "Affine Particle in Cell" but make it simple
 

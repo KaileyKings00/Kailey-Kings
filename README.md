@@ -8,11 +8,9 @@
   - Click buttons to spawn, colour, resize and reset Fireworks. Change their speed and pause/continue their animation view. 
   - Press Quit button to Exit the Application.
   - (Important Note: Install Python, numpy and NCCA Library Code to run this project)
-  - Firework Application Image Link: [Fireworks Demo Application Design Image](https://file.notion.so/f/f/141e73cf-03aa-426f-9a97-9f886e7c7733/44e2cda3-c973-4475-8d53-9f303b82ba9c/Firework_Panel.png?table=block&id=2f369366-a955-808d-a865-c622bc9cec26&spaceId=141e73cf-03aa-426f-9a97-9f886e7c7733&expirationTimestamp=1769464800000&signature=3TRys7i8jEa-s9nxpFdeRP3wZikjHkXFVq60zz9OP48&downloadName=Firework+Panel.png)
-  - Image Display: ![alt text](https://file.notion.so/f/f/141e73cf-03aa-426f-9a97-9f886e7c7733/44e2cda3-c973-4475-8d53-9f303b82ba9c/Firework_Panel.png?table=block&id=2f369366-a955-808d-a865-c622bc9cec26&spaceId=141e73cf-03aa-426f-9a97-9f886e7c7733&expirationTimestamp=1769371200000&signature=d2a6j4hDVvM3hra14agYvDyJLcwBnaaJKYccbd1nBMQ&downloadName=Firework+Panel.png "Final Firework Design Application")
+  - Firework Application Image:  ![image alt](https://github.com/KaileyKings00/Kailey-Kings/blob/31faea323d16de11d94f0f20fdb533c0c728b257/Firework%20Panel.png)
   
-  ![image alt](https://github.com/KaileyKings00/Kailey-Kings/blob/31faea323d16de11d94f0f20fdb533c0c728b257/Firework%20Panel.png)
-  
+
 
 
   Real Project Link: [Firework GUI Project Github Link](https://github.com/NCCA/aseassignment25-26-KaileyKings00)
@@ -318,8 +316,7 @@
   - Thanks to this code, I was able to access the PySide tools and their examples in my GitHub Resporitory testing version.
 
 ### Flowcharts
-  - Emitter Process of Spawning and Fading Particles with Loop: ![alt text](https://file.notion.so/f/f/141e73cf-03aa-426f-9a97-9f886e7c7733/e7ebeb80-53c5-41d2-a0b1-c9948a740fde/image.png?table=block&id=2f369366-a955-8029-aeec-de0e06ee16e6&spaceId=141e73cf-03aa-426f-9a97-9f886e7c7733&expirationTimestamp=1769378400000&signature=wxei_7b1vN_seWoLTippa70WUhDrod3j5NTwgCcqyAY&downloadName=image.png "Final Firework Flowchart Design")
-  - Flowchart Image: [Emitter Lifetime Spawn and Fade Cycle Flowchart Link](https://file.notion.so/f/f/141e73cf-03aa-426f-9a97-9f886e7c7733/e7ebeb80-53c5-41d2-a0b1-c9948a740fde/image.png?table=block&id=2f369366-a955-8029-aeec-de0e06ee16e6&spaceId=141e73cf-03aa-426f-9a97-9f886e7c7733&expirationTimestamp=1769464800000&signature=nsX2gZbm95F0Lm3Bir2ZuChMSC1CVRJdD3zxwUVlEEA&downloadName=image.png)
+  - Emitter Process of Spawning and Fading Particles with Loop - Flowchart Image:   ![Image alt](https://github.com/KaileyKings00/Kailey-Kings/blob/446bb75e7adaf6260be40eca890ba98957972758/Flowchart.png)
 ## What I've Learned:
   - Developing the Particle System into Fireworks form is very challenging that brings new experience of using OpenGL shaders, QApplications and more Python tools to work efficiently. 
   - It gave me a chance to understand how Object Oriented Programming works and how it needs GPU processing and Importing useful Python library codes to access their system. Just like how Functions and Variables can connect GUI Buttons and, using Shaders to render all the Particle Systems to make them accessible. 

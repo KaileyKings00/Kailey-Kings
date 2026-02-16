@@ -1,7 +1,7 @@
   # Kyle Galenzoga s5418946@bournemouth.ac.uk
 
   
-# Firework Particle Project 
+# Fireworks Particle Project 
   One of MSc Computer Animation and Visual Effect's Project from the ASE course Semester 1.
   ### How to Use:
   - Run main.py and the Firework Project Application will appear.

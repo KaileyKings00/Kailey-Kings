@@ -2,7 +2,7 @@
 
   
 # Firework Particle Project 
-
+  One of MSc Computer Animation and Visual Effect's Project from the ASE course Semester 1.
   ### How to Use:
   - Run main.py and the Firework Project Application will appear.
   - Click buttons to spawn, colour, resize and reset Fireworks. Change their speed and pause/continue their animation view. 
@@ -10,6 +10,7 @@
   - (Important Note: Install Python, numpy and NCCA Library Code to run this project)
   - Firework Application Image Link: [Fireworks Demo Application Design Image](https://file.notion.so/f/f/141e73cf-03aa-426f-9a97-9f886e7c7733/44e2cda3-c973-4475-8d53-9f303b82ba9c/Firework_Panel.png?table=block&id=2f369366-a955-808d-a865-c622bc9cec26&spaceId=141e73cf-03aa-426f-9a97-9f886e7c7733&expirationTimestamp=1769464800000&signature=3TRys7i8jEa-s9nxpFdeRP3wZikjHkXFVq60zz9OP48&downloadName=Firework+Panel.png)
   - Image Display: ![alt text](https://file.notion.so/f/f/141e73cf-03aa-426f-9a97-9f886e7c7733/44e2cda3-c973-4475-8d53-9f303b82ba9c/Firework_Panel.png?table=block&id=2f369366-a955-808d-a865-c622bc9cec26&spaceId=141e73cf-03aa-426f-9a97-9f886e7c7733&expirationTimestamp=1769371200000&signature=d2a6j4hDVvM3hra14agYvDyJLcwBnaaJKYccbd1nBMQ&downloadName=Firework+Panel.png "Final Firework Design Application")
+  
   
 
 
